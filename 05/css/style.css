@@ -97,3 +97,9 @@ body {
 #faq .card-header {
   background: #333;
 }
+
+/* blog css */
+#main-footer {
+  background: #000;
+  color: #fff;
+}
